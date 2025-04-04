@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sooryajith,Aspiring Data Scientist | BCA Student (AI & Data Science) | Passionate about Machine Learning, Data  Science, and Model Deployment 🚀</h2>
+<h2 align="left">Hi 👋! i'm Sooryajith,Aspiring Data Scientist | BCA Student (AI & Data Science) | Passionate about Machine Learning, Data  Science, and Model Deployment 🚀</h2>
 
 ###
 
